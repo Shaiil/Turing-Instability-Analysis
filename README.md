@@ -1,4 +1,4 @@
-# Turing-Instability-Analysis - Exploring Morphogenesis
+# Turing Instability Analysis - Exploring Morphogenesis
 
 The project involves the mathematical stability analysis and numerical simulations for exploring **Turing Pattern Formation (Diffusion-Driven Instability)** in reaction-diffusion systems, with a dedicated application to the **Gray-Scott Model**.
 
